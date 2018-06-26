@@ -1,4 +1,6 @@
-#Tumy's Dog Grooming, Vaccinations And Sitting Website
+#MyApp
+
+Tumy's Dog Grooming, Vaccinations And Sitting Website
 
 The website demonstrates how to create basic websites using only html, css and javascript.  To do this, this website is created to offer services for dog grooming, vaccinations and sitting. The about page describes what services are offered. 
 
